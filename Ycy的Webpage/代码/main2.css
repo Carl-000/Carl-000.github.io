@@ -1,0 +1,7 @@
+/* CSS Document */
+*{background-color: skyblue;margin: 0px}
+#contain{width: 969px;height: 600px;margin-left: auto;margin-right: auto}
+#top{width: auto;height: 400px;}
+.tree{width: 323px;height: 400px;float: left}
+#bottom{width: auto;height: 200px;text-align: center}
+

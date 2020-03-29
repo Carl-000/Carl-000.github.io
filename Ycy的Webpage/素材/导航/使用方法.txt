@@ -1,0 +1,25 @@
+手机右上角圆角动画导航代码，点击左上角图片可以查看导航菜单。兼容主流浏览器，懒人图库推荐下载！
+
+使用方法：
+1、head区域引用文件
+<link href='http://fonts.useo.com/css?family=PT+Sans:400,700' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="css/reset.css">
+<link rel="stylesheet" href="css/style.css">
+
+2、 引入以下js
+<script src="js/modernizr.js"></script>
+<script src="js/jquery-2.1.1.js"></script>
+<script src="js/velocity.min.js"></script>
+<script src="js/main.js"></script>
+
+3、在文件中加入<!-- 代码 开始 --><!-- 代码 结束 -->区域代码， 导航菜单内容请修改以下代码。
+<ul class="cd-primary-nav">
+	<li><a href="#0">The team</a></li>
+	<li><a href="#0">Our services</a></li>
+	<li><a href="#0">Our projects</a></li>
+	<li><a href="#0">Start a project</a></li>
+	<li><a href="#0">Join In</a></li>
+	<li><a href="#0">Create an account</a></li>
+</ul>
+
+*更多代码请访问：懒人图库 www.lanrentuku.com/js/

@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'Oswald';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Oswald Regular'), local('Oswald-Regular'), url(../fonts/lanrentuku.woff) format('woff');
+}
+*{background-color: darkorange}
+#fff{width: 968px;height: 600px;background-color: aliceblue;margin-left: auto;margin-right: auto}
+.d1{margin-top: 1px; height: 100px;line-height: 100px;color:tomato;text-align: center;background-color:skyblue}
+.d2{margin-top: 1px; height: 100px;line-height: 100px;color: tomato;text-align: right;background-color:skyblue}

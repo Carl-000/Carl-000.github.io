@@ -1,0 +1,8 @@
+/* CSS Document */
+*{background-color: skyblue;margin: 0px}
+#contain{width: 1500px;height: 1000px}
+#song{width: 500px;height: 1000px;float:left}
+.word{width: 250px;height: 1000px;background-color:hotpink;float: left}
+.word{width: 250px;height: 1000px;background-color:hotpink;float: left}
+#foot{width: 500px;height: 1000px;background-color:orange;float: left}
+

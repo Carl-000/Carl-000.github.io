@@ -1,0 +1,6 @@
+/* CSS Document */
+*{margin: 0px;background-color: skyblue}
+#contain{width: 968px;height: 1000px;margin-left: auto;margin-right: auto}
+#top{width: 968px; height: 315px;text-align: center;margin-left: auto;margin-right: auto}
+#body{width: 968px; height: 600px;float: left}
+#foot{width: 968px; height: 50px;text-align: center;background-color: #FBF2F2}
